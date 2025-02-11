@@ -1,9 +1,3 @@
-streamlit
-sqlalchemy
-pysqlite3
-rich
-pygments
-markdown-it-py
-
-
-
+SQLAlchemy==2.0.37
+SQLAlchemy==2.0.38
+streamlit==1.41.1
