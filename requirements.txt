@@ -1,3 +1,9 @@
 streamlit
 sqlalchemy
-sqlite
+pysqlite3
+rich
+pygments
+markdown-it-py
+
+
+
